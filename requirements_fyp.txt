@@ -1,0 +1,5 @@
+echo "streamlit
+pandas
+requests
+fpdf2
+gradio_client" > requirements.txt
